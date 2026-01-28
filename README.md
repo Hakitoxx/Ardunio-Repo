@@ -15,3 +15,20 @@ This project is developed using **Arduino** to measuring the humidity of the air
 3. Connect your Arduino and upload the code.
 4. Open the Serial Monitor to see the live data.
 
+---
+
+# 🎶 [Project Name - LEDs that light up in rhythm with the music.]
+
+This project was developed using **Arduino** to light up LEDs according to the rhythm of the music.
+
+## 🛠️ Components & Materials
+* **Arduino Uno** ⚙️
+* [Parts - Buzzer, Leds]
+* [Power Source - Ardunio Uno 5V]
+
+
+## 💻 Installation & Usage
+1. Open the `.ino` file in the `src/` folder using the **Arduino IDE**.
+2. Install any necessary libraries (e.g., `<DHT.h>` or `<LiquidCrystal.h>`).
+3. Connect your Arduino and upload the code.
+4. Open the Serial Monitor to see the live data.
